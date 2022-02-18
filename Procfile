@@ -1,0 +1,1 @@
+web: gunicorn Netflix_coppy.wsgi --log-file -
